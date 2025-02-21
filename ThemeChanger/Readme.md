@@ -24,17 +24,17 @@ How to use Theme Changer.
 3. Paste(CTRL + V) your themes here
 4. Delete the empty file there
 
-You should be now ready to switch between your themes by running "theme changer" shortcut
+You should be now ready to switch between your themes by running Main.py file in ThemeChanger\Source.
+For your convinience I would recommend creating a shorcut to said file.
 
 
 
 ------------------------------------|| Post Scriptum ||------------------------------------
 
-You can move the "theme changer" shortcut anyway for easy access (I recommend putting it on 
+You can move your shortcut anywhere for easy access (I recommend putting it on 
 	your desktop or taskbar)
 
-You can now also delete the "Source" and "Guide pictures" 
-	folders: ThemeChanger\Source; ThemeChanger\Guide pictures
+You can now also delete the "Guide pictures"  folder.
 
 If windows settings app open up every time you change your theme, unfortunately it is a
 	windows "feature" that, to my information, cannot be disabled
